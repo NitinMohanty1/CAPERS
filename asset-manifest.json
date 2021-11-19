@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mcq-ibs/static/css/main.df31aebb.chunk.css",
-    "main.js": "/mcq-ibs/static/js/main.60f33cb5.chunk.js",
-    "main.js.map": "/mcq-ibs/static/js/main.60f33cb5.chunk.js.map",
-    "runtime-main.js": "/mcq-ibs/static/js/runtime-main.2f3c2977.js",
-    "runtime-main.js.map": "/mcq-ibs/static/js/runtime-main.2f3c2977.js.map",
-    "static/css/2.383c0125.chunk.css": "/mcq-ibs/static/css/2.383c0125.chunk.css",
-    "static/js/2.26764c8d.chunk.js": "/mcq-ibs/static/js/2.26764c8d.chunk.js",
-    "static/js/2.26764c8d.chunk.js.map": "/mcq-ibs/static/js/2.26764c8d.chunk.js.map",
-    "static/js/3.26e10e07.chunk.js": "/mcq-ibs/static/js/3.26e10e07.chunk.js",
-    "static/js/3.26e10e07.chunk.js.map": "/mcq-ibs/static/js/3.26e10e07.chunk.js.map",
-    "index.html": "/mcq-ibs/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/mcq-ibs/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.df31aebb.chunk.css.map": "/mcq-ibs/static/css/main.df31aebb.chunk.css.map",
-    "static/js/2.26764c8d.chunk.js.LICENSE.txt": "/mcq-ibs/static/js/2.26764c8d.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/mcq-ibs/static/media/dotclub.fe4f25cf.jpeg"
+    "main.css": "/VYUH-Round-1/static/css/main.d8953111.chunk.css",
+    "main.js": "/VYUH-Round-1/static/js/main.19c1b40b.chunk.js",
+    "main.js.map": "/VYUH-Round-1/static/js/main.19c1b40b.chunk.js.map",
+    "runtime-main.js": "/VYUH-Round-1/static/js/runtime-main.76f27fa8.js",
+    "runtime-main.js.map": "/VYUH-Round-1/static/js/runtime-main.76f27fa8.js.map",
+    "static/css/2.383c0125.chunk.css": "/VYUH-Round-1/static/css/2.383c0125.chunk.css",
+    "static/js/2.60f2af2f.chunk.js": "/VYUH-Round-1/static/js/2.60f2af2f.chunk.js",
+    "static/js/2.60f2af2f.chunk.js.map": "/VYUH-Round-1/static/js/2.60f2af2f.chunk.js.map",
+    "static/js/3.26e10e07.chunk.js": "/VYUH-Round-1/static/js/3.26e10e07.chunk.js",
+    "static/js/3.26e10e07.chunk.js.map": "/VYUH-Round-1/static/js/3.26e10e07.chunk.js.map",
+    "index.html": "/VYUH-Round-1/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/VYUH-Round-1/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.d8953111.chunk.css.map": "/VYUH-Round-1/static/css/main.d8953111.chunk.css.map",
+    "static/js/2.60f2af2f.chunk.js.LICENSE.txt": "/VYUH-Round-1/static/js/2.60f2af2f.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/VYUH-Round-1/static/media/dotclub.fe4f25cf.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f3c2977.js",
+    "static/js/runtime-main.76f27fa8.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.26764c8d.chunk.js",
-    "static/css/main.df31aebb.chunk.css",
-    "static/js/main.60f33cb5.chunk.js"
+    "static/js/2.60f2af2f.chunk.js",
+    "static/css/main.d8953111.chunk.css",
+    "static/js/main.19c1b40b.chunk.js"
   ]
 }
