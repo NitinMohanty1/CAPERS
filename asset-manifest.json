@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VYUH-Round-1/static/css/main.27c18624.chunk.css",
+    "main.css": "/VYUH-Round-1/static/css/main.ab33f90e.chunk.css",
     "main.js": "/VYUH-Round-1/static/js/main.70584060.chunk.js",
     "main.js.map": "/VYUH-Round-1/static/js/main.70584060.chunk.js.map",
     "runtime-main.js": "/VYUH-Round-1/static/js/runtime-main.76f27fa8.js",
@@ -12,7 +12,7 @@
     "static/js/3.26e10e07.chunk.js.map": "/VYUH-Round-1/static/js/3.26e10e07.chunk.js.map",
     "index.html": "/VYUH-Round-1/index.html",
     "static/css/2.383c0125.chunk.css.map": "/VYUH-Round-1/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.27c18624.chunk.css.map": "/VYUH-Round-1/static/css/main.27c18624.chunk.css.map",
+    "static/css/main.ab33f90e.chunk.css.map": "/VYUH-Round-1/static/css/main.ab33f90e.chunk.css.map",
     "static/js/2.3d76e613.chunk.js.LICENSE.txt": "/VYUH-Round-1/static/js/2.3d76e613.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/VYUH-Round-1/static/media/space.56a5aa98.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.76f27fa8.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.3d76e613.chunk.js",
-    "static/css/main.27c18624.chunk.css",
+    "static/css/main.ab33f90e.chunk.css",
     "static/js/main.70584060.chunk.js"
   ]
 }
