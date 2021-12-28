@@ -1,5 +1,22 @@
 .content {
-  background-image: url('./dotclub.jpeg');
+  background-image: url('./space.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+height: 100vh;
+color: white
+}
+
+.contentmain {
+  background-image: url('./Trishna.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+height: 100vh;
+color: black
+}
+
+.disableselect {
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
 }

@@ -38,7 +38,7 @@ export default function Question({
   return (
     <>
       <div>Timer: {seconds}</div>
-      <div className="col-12 my-4">{id + 1}. {question.question}</div>
+      <div className="col-12 my-4" dangerouslySetInnerHTML={{__html:`${id + 1}.${question.question}`}}></div>
       <Option options={option} name={type} onChange={(event) => onOptionSelection(event)} id={id} />
       <Button style={{ width: '20%' }} onClick={() => onAnswerSubmit(question.answer)}>Submit</Button>
     </>

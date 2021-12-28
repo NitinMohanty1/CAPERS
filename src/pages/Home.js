@@ -18,16 +18,16 @@ export default function Home() {
   };
 
   return (
-    <div class="content">
+    <div class="contentmain">
       <div style={{paddingTop: '20%', paddingLeft: '40%', paddingBottom: '23%'}}>
         <InputGroup className="mb-3" style={{ width: '30%' }}>
           <FormControl
             value={name}
             onChange={(event) => setName(event.target.value)}
-            placeholder="Enter you name"
+            placeholder="Enter Your Team Name"
           />
         </InputGroup>
-        <Button variant="primary" style={{ width: '30%' }} onClick={() => startGame()}>Start Game</Button>
+        <Button variant="primary" style={{ width: '30%' }} disabled={!name} onClick={() => startGame()}>Start Game</Button>
       </div>
     </div>
   )

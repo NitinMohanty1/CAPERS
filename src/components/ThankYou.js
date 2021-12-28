@@ -1,19 +1,31 @@
 import axios from 'axios'
-import React, { useEffect } from 'react'
+import React, { useEffect,useState } from 'react'
 
 export default function ThankYou({ name, score }) {
-
+const [showLoading, setShowLoading] = useState(false);
+const [showError, setShowError] = useState(false);
   useEffect(() => {
-    console.log({name, score});
-    axios.post('https://sheet.best/api/sheets/f31b1449-a291-42e1-9613-4151d9f922e9', {
+    if(!sessionStorage.getItem('submitted'))
+	{
+		setShowLoading(true)
+    axios.post('https://sheet.best/api/sheets/1f070a94-eeac-4e42-a6c4-efa60aaa2daa', {
       name,
-      score
-    })
+      score,
+	  timestamp: new Date().toString()
+    }).then(() => {
+		setShowLoading(false)
+		sessionStorage.setItem('submitted','true')
+	})
+	.catch(() => {setShowLoading(false);setShowError(true)}
+	
+	) 
+	
+	}
   }, []);
 
   return (
-    <div>
-      Your final score is {score} out of 11. Thank you {name}!!!
-    </div>
+  <div style={{color:'Green',fontSize:'30px',fontWeight:'bold'}}>
+	  <div>Your Final Score is {score}. Thank you {name}!!!</div>
+  </div>
   )
 }
