@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Trivia-1/static/css/main.4da7cbd3.chunk.css",
-    "main.js": "/Trivia-1/static/js/main.70b611ca.chunk.js",
-    "main.js.map": "/Trivia-1/static/js/main.70b611ca.chunk.js.map",
-    "runtime-main.js": "/Trivia-1/static/js/runtime-main.7a7a95de.js",
-    "runtime-main.js.map": "/Trivia-1/static/js/runtime-main.7a7a95de.js.map",
-    "static/css/2.383c0125.chunk.css": "/Trivia-1/static/css/2.383c0125.chunk.css",
-    "static/js/2.5912d41d.chunk.js": "/Trivia-1/static/js/2.5912d41d.chunk.js",
-    "static/js/2.5912d41d.chunk.js.map": "/Trivia-1/static/js/2.5912d41d.chunk.js.map",
-    "static/js/3.26e10e07.chunk.js": "/Trivia-1/static/js/3.26e10e07.chunk.js",
-    "static/js/3.26e10e07.chunk.js.map": "/Trivia-1/static/js/3.26e10e07.chunk.js.map",
-    "index.html": "/Trivia-1/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/Trivia-1/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.4da7cbd3.chunk.css.map": "/Trivia-1/static/css/main.4da7cbd3.chunk.css.map",
-    "static/js/2.5912d41d.chunk.js.LICENSE.txt": "/Trivia-1/static/js/2.5912d41d.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/Trivia-1/static/media/space.56a5aa98.jpg"
+    "main.css": "/HEPHAES-TECH/static/css/main.35786fce.chunk.css",
+    "main.js": "/HEPHAES-TECH/static/js/main.18712e7d.chunk.js",
+    "main.js.map": "/HEPHAES-TECH/static/js/main.18712e7d.chunk.js.map",
+    "runtime-main.js": "/HEPHAES-TECH/static/js/runtime-main.bb510dbb.js",
+    "runtime-main.js.map": "/HEPHAES-TECH/static/js/runtime-main.bb510dbb.js.map",
+    "static/css/2.383c0125.chunk.css": "/HEPHAES-TECH/static/css/2.383c0125.chunk.css",
+    "static/js/2.9866c6df.chunk.js": "/HEPHAES-TECH/static/js/2.9866c6df.chunk.js",
+    "static/js/2.9866c6df.chunk.js.map": "/HEPHAES-TECH/static/js/2.9866c6df.chunk.js.map",
+    "static/js/3.26e10e07.chunk.js": "/HEPHAES-TECH/static/js/3.26e10e07.chunk.js",
+    "static/js/3.26e10e07.chunk.js.map": "/HEPHAES-TECH/static/js/3.26e10e07.chunk.js.map",
+    "index.html": "/HEPHAES-TECH/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/HEPHAES-TECH/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.35786fce.chunk.css.map": "/HEPHAES-TECH/static/css/main.35786fce.chunk.css.map",
+    "static/js/2.9866c6df.chunk.js.LICENSE.txt": "/HEPHAES-TECH/static/js/2.9866c6df.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/HEPHAES-TECH/static/media/space.56a5aa98.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a7a95de.js",
+    "static/js/runtime-main.bb510dbb.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.5912d41d.chunk.js",
-    "static/css/main.4da7cbd3.chunk.css",
-    "static/js/main.70b611ca.chunk.js"
+    "static/js/2.9866c6df.chunk.js",
+    "static/css/main.35786fce.chunk.css",
+    "static/js/main.18712e7d.chunk.js"
   ]
 }
