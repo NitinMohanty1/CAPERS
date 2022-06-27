@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/HEPHAES-TECH/static/css/main.99c47da0.chunk.css",
+    "main.css": "/HEPHAES-TECH/static/css/main.aa03ef80.chunk.css",
     "main.js": "/HEPHAES-TECH/static/js/main.fe7973f9.chunk.js",
     "main.js.map": "/HEPHAES-TECH/static/js/main.fe7973f9.chunk.js.map",
     "runtime-main.js": "/HEPHAES-TECH/static/js/runtime-main.bb510dbb.js",
@@ -12,15 +12,15 @@
     "static/js/3.26e10e07.chunk.js.map": "/HEPHAES-TECH/static/js/3.26e10e07.chunk.js.map",
     "index.html": "/HEPHAES-TECH/index.html",
     "static/css/2.383c0125.chunk.css.map": "/HEPHAES-TECH/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.99c47da0.chunk.css.map": "/HEPHAES-TECH/static/css/main.99c47da0.chunk.css.map",
+    "static/css/main.aa03ef80.chunk.css.map": "/HEPHAES-TECH/static/css/main.aa03ef80.chunk.css.map",
     "static/js/2.9866c6df.chunk.js.LICENSE.txt": "/HEPHAES-TECH/static/js/2.9866c6df.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/HEPHAES-TECH/static/media/hp.5e019eef.png"
+    "static/media/Home.css": "/HEPHAES-TECH/static/media/hp.fee674e0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bb510dbb.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.9866c6df.chunk.js",
-    "static/css/main.99c47da0.chunk.css",
+    "static/css/main.aa03ef80.chunk.css",
     "static/js/main.fe7973f9.chunk.js"
   ]
 }
