@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HEPHAES-TECH/static/css/main.aa03ef80.chunk.css",
-    "main.js": "/HEPHAES-TECH/static/js/main.fe7973f9.chunk.js",
-    "main.js.map": "/HEPHAES-TECH/static/js/main.fe7973f9.chunk.js.map",
+    "main.js": "/HEPHAES-TECH/static/js/main.72eeb180.chunk.js",
+    "main.js.map": "/HEPHAES-TECH/static/js/main.72eeb180.chunk.js.map",
     "runtime-main.js": "/HEPHAES-TECH/static/js/runtime-main.bb510dbb.js",
     "runtime-main.js.map": "/HEPHAES-TECH/static/js/runtime-main.bb510dbb.js.map",
     "static/css/2.383c0125.chunk.css": "/HEPHAES-TECH/static/css/2.383c0125.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.9866c6df.chunk.js",
     "static/css/main.aa03ef80.chunk.css",
-    "static/js/main.fe7973f9.chunk.js"
+    "static/js/main.72eeb180.chunk.js"
   ]
 }
