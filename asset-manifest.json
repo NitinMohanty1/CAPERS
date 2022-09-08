@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/HEPHAES-TECH/static/css/main.aa03ef80.chunk.css",
-    "main.js": "/HEPHAES-TECH/static/js/main.72eeb180.chunk.js",
-    "main.js.map": "/HEPHAES-TECH/static/js/main.72eeb180.chunk.js.map",
-    "runtime-main.js": "/HEPHAES-TECH/static/js/runtime-main.bb510dbb.js",
-    "runtime-main.js.map": "/HEPHAES-TECH/static/js/runtime-main.bb510dbb.js.map",
-    "static/css/2.383c0125.chunk.css": "/HEPHAES-TECH/static/css/2.383c0125.chunk.css",
-    "static/js/2.9866c6df.chunk.js": "/HEPHAES-TECH/static/js/2.9866c6df.chunk.js",
-    "static/js/2.9866c6df.chunk.js.map": "/HEPHAES-TECH/static/js/2.9866c6df.chunk.js.map",
-    "static/js/3.26e10e07.chunk.js": "/HEPHAES-TECH/static/js/3.26e10e07.chunk.js",
-    "static/js/3.26e10e07.chunk.js.map": "/HEPHAES-TECH/static/js/3.26e10e07.chunk.js.map",
-    "index.html": "/HEPHAES-TECH/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/HEPHAES-TECH/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.aa03ef80.chunk.css.map": "/HEPHAES-TECH/static/css/main.aa03ef80.chunk.css.map",
-    "static/js/2.9866c6df.chunk.js.LICENSE.txt": "/HEPHAES-TECH/static/js/2.9866c6df.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/HEPHAES-TECH/static/media/hp.fee674e0.png"
+    "main.css": "/CAPERS/static/css/main.c449c0a9.chunk.css",
+    "main.js": "/CAPERS/static/js/main.1bced578.chunk.js",
+    "main.js.map": "/CAPERS/static/js/main.1bced578.chunk.js.map",
+    "runtime-main.js": "/CAPERS/static/js/runtime-main.8f56a2cc.js",
+    "runtime-main.js.map": "/CAPERS/static/js/runtime-main.8f56a2cc.js.map",
+    "static/css/2.383c0125.chunk.css": "/CAPERS/static/css/2.383c0125.chunk.css",
+    "static/js/2.145393b8.chunk.js": "/CAPERS/static/js/2.145393b8.chunk.js",
+    "static/js/2.145393b8.chunk.js.map": "/CAPERS/static/js/2.145393b8.chunk.js.map",
+    "static/js/3.26e10e07.chunk.js": "/CAPERS/static/js/3.26e10e07.chunk.js",
+    "static/js/3.26e10e07.chunk.js.map": "/CAPERS/static/js/3.26e10e07.chunk.js.map",
+    "index.html": "/CAPERS/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/CAPERS/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.c449c0a9.chunk.css.map": "/CAPERS/static/css/main.c449c0a9.chunk.css.map",
+    "static/js/2.145393b8.chunk.js.LICENSE.txt": "/CAPERS/static/js/2.145393b8.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/CAPERS/static/media/space.56a5aa98.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb510dbb.js",
+    "static/js/runtime-main.8f56a2cc.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.9866c6df.chunk.js",
-    "static/css/main.aa03ef80.chunk.css",
-    "static/js/main.72eeb180.chunk.js"
+    "static/js/2.145393b8.chunk.js",
+    "static/css/main.c449c0a9.chunk.css",
+    "static/js/main.1bced578.chunk.js"
   ]
 }
